@@ -1,7 +1,8 @@
 numpy
 scipy
 torch == v1.2.0
-librosa
+librosa==0.7.2
+numba==0.48.0
 pysptk
 soundfile
 matplotlib

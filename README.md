@@ -31,6 +31,10 @@ The audio demo for SpeechSplit can be found [here](https://auspicious3000.github
 - matplotlib
 - wavenet_vocoder ```pip install wavenet_vocoder==0.1.1```
   for more information, please refer to https://github.com/r9y9/wavenet_vocoder
+  ```
+   pip install -r requirements.txt
+   sh install_wavevocoder.sh
+  ```
 
 
 ## To Run Demo

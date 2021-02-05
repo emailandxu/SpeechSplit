@@ -1,1 +1,6 @@
 assets/*
+wavenet_vocoder-0.1.1/*
+.vscode/*
+.ipynb_checkpoints/*
+*.pyc
+results/*
